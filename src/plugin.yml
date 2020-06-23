@@ -1,0 +1,10 @@
+main: me.proiezrush.oneblock.Main
+version: 1.0
+author: ProIEZRush
+name: OneBlock
+softdepend:
+  - askyblock
+commands:
+  oneblock:
+    aliases: ob
+    description: Main plugin command
